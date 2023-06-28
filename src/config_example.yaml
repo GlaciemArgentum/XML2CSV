@@ -24,7 +24,7 @@ std_time:
 
 # Данные для записи отчёта.
 write:
-  path: /Users/tee/PyCharmProjects/xml2csv/reports  # Путь для сохранения отчёта.
+  path: /your/path/xml2csv/reports  # Путь для сохранения отчёта.
 
   fmt_date: '%Y-%m-%d'  # Формат даты в отчёте.
   fmt_time: '%H:%M'     # Формат времени в отчёте.
